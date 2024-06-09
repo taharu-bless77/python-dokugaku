@@ -1,6 +1,6 @@
 def hello(n):
     for _ in range(n):
-        print("Hello  world") 
+        print("Hello new world") 
 
 print(hello(5))
     
