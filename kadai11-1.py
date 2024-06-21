@@ -1,4 +1,6 @@
 def mikitani(yen):
-    a = []
     yen1 = str(yen)
-    for s in 
+    for s in yen1:
+        print(s + '/,')
+
+
