@@ -13,4 +13,5 @@ def mikitani(yen):
     
     return ''.join(result[::-1])
 
+
 print(mikitani(123456789))
