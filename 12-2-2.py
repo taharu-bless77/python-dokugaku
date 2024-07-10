@@ -9,6 +9,7 @@ class Room:
         else:
            print('{0} < {1}'.format(self.name,val)) 
         
-room = Room("Living Room", 35)
+room = Room("aaaaaaaaaaaa", 35000000000000000)
 print(room.compare(30)) 
 print(room.compare(700)) 
+print(room.area)
